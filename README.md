@@ -4,7 +4,7 @@
 
 Hi, This is Anthony Garcia.
 
-I am a software and robotics engineer with a passion for developing Artificial General Intelligence with Robotics.
+I am a software and robotics engineer with a passion for developing AGI with Robotics.
 
 I am especially interested in robotics control and computer vision AI.
 

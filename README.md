@@ -1,4 +1,4 @@
-# Profile
+Hi, This is Anthony Garcia (or Sewon Kim).
 
 I enjoy bringing mathematically sophisticated theories into reality, but I always strive to maintain a sense of balance between theory and implementation.
 

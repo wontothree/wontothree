@@ -6,7 +6,7 @@ This is Anthony Garcia (or Sewon Kim). I focus on **Optimal Control** and **Robo
 
 You can visit my [LinkedIn](https://www.linkedin.com/in/wontothree/), [Career](https://wontothree.github.io/career/), and [Technical Blog](https://wontothree.github.io/).
 
-By the way, I'm 23 years old in international age and originally from Seoul, South Korea 🇰🇷. I have a passion for jazz and heavy metal, and I played acoustic and electric guitar in rock bands throughout middle school, high school, and university 🎸.
+By the way, I'm 25 years old in international age and originally from Seoul, South Korea 🇰🇷. I have a passion for jazz and heavy metal, and I played acoustic and electric guitar in rock bands throughout middle school, high school, and university 🎸.
 
 <br>
 

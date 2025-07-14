@@ -1,7 +1,7 @@
 # Anthony Garcia's GitHub
 
-This is Anthony Garcia (or Sewon Kim).
+This is Anthony Garcia (or Sewon Kim). I focus on **Optimal Control** and **Robot Learning**. I love bringing mathematically sophisticated theory into the physical world but strive to maintain a sense of balance between theory and implementation.
 
->Any sufficiently advanced technology is indistinguishable from magic
+Welcome to my [LinkedIn](https://www.linkedin.com/in/wontothree/), [Career](https://wontothree.github.io/career/), and [Technical Blog](https://wontothree.github.io/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wontothree&show_icons=true&theme=dracula&hide=contribs,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wontothree&layout=compact&theme=tokyonight)

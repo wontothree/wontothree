@@ -1,6 +1,6 @@
 # Anthony Garcia's GitHub
 
-<span style="color: #2D3748; background-color:#fff5b1;">**Legged Robotics**</span>, <span style="color: #2D3748; background-color:#fff5b1;">**Optimal Control**</span>, and <span style="color: #2D3748; background-color:#fff5b1;">**Robot Learning**</span>
+**Legged Robotics**, **Optimal Control**, and **Robot Learning**
 
 This is Anthony Garcia (or Sewon Kim). I focus on **Optimal Control** and **Robot Learning**. I love bringing mathematically sophisticated theory into the physical world but strive to maintain a sense of balance between theory and implementation.
 

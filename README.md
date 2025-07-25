@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Sewon Kim's GitHub</h1>
-</div>
+# Sewon Kim's GitHub
 
 <br>
 

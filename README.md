@@ -1,4 +1,4 @@
-# Anthony Garcia's GitHub
+# Sewon Kim's GitHub
 
 **Legged Robotics**, **Optimal Control**, and **Robot Learning**
 

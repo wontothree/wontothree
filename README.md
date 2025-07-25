@@ -2,9 +2,9 @@
 
 **Legged Robotics**, **Optimal Control**, and **Robot Learning**
 
-This is Anthony Garcia (or Sewon Kim). I focus on **Optimal Control** and **Robot Learning**. I love bringing mathematically sophisticated theory into the physical world but strive to maintain a sense of balance between theory and implementation.
+This is Anthony Garcia (or Sewon Kim). I focus on **Optimal Control** and **Robot Learning**. I enjoy bringing mathematically sophisticated theory into the physical world but strive to maintain a sense of balance between theory and implementation.
 
-You can visit my [LinkedIn](https://www.linkedin.com/in/wontothree/), [Career](https://wontothree.github.io/career/), and [Technical Blog](https://wontothree.github.io/).
+[LinkedIn](https://www.linkedin.com/in/wontothree/) | [Career](https://wontothree.github.io/career/) | [Technical Blog](https://wontothree.github.io/).
 
 <br>
 

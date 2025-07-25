@@ -1,14 +1,10 @@
 <div align="center">
-
-<div>
   <ul align="center" style="list-style: none;">
     <summary>
       <h1>Sewon Kim's GitHub</h1>
     </summary>
   </ul>
 </div>
-
-# Sewon Kim
 
 **Legged Robotics**, **Optimal Control**, and **Robot Learning**
 

@@ -1,6 +1,6 @@
-# Sewon Kim's GitHub
-
-<br>
+<div align="center">
+  <h1>Sewon Kim's GitHub</h1>
+</div>
 
 **Embodied System**, **Optimal Control**, and **Robot Learning**
 

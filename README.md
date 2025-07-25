@@ -1,10 +1,4 @@
-<div align="center">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1>Sewon Kim's GitHub</h1>
-    </summary>
-  </ul>
-</div>
+<div align="center"><h1>Sewon Kim's GitHub</h1></div>
 
 **Legged Robotics**, **Optimal Control**, and **Robot Learning**
 

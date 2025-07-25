@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Sewon Kim's GitHub</h1>
-  <a href="#" style="color: #598be7; text-decoration: none;" onmouseover="this.style.color='#9bb9f1'" onmouseout="this.style.color='#598be7'">https://www.linkedin.com/in/wontothree/</a>
+  <a href="https://www.linkedin.com/in/wontothree/" style="color: #598be7; text-decoration: none;" onmouseover="this.style.color='#9bb9f1'" onmouseout="this.style.color='#598be7'">LinkedIn</a>
 
 </div>
 

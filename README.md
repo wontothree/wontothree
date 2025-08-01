@@ -8,6 +8,6 @@ This is Sewon Kim. I am focusing on **Optimal Control** and **Robot Learning**. 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wontothree/">LinkedIn</a> |
-  <a href="https://wontothree.github.io/">Career Page</a> |
+  <a href="https://wontothree.github.io/">Career</a> |
   <a href="https://wontothree.github.io/blog">Blog</a>
 </div>

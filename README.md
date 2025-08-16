@@ -1,8 +1,11 @@
 <div align="center">
   
-  # Sewon Kim's GitHub
+  ## Sewon Kim's GitHub
 
-  **Embodied System**, **Optimal Control**, and **Robot Learning** ✨
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=15&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=650&lines=Embodied+System%2C+Optimal+Control%2C+and+Robot+Learning+✨" alt="Typing Animation" />
+</div>
+
 </div>
 
 This is Sewon Kim. I have been focusing on **Optimal Control** and **Robot Learning**. I enjoy bringing mathematically sophisticated theory into the physical world but strive to maintain a sense of balance between theory and implementation.

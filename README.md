@@ -1,17 +1,14 @@
 <div align="center">
   
   # Sewon Kim's GitHub
-  
-  <div align="center">
+
 
   <div align="center">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=24&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=1000&lines=Embodied+System%2C+Optimal+Control%2C+and+Robot+Learning+✨" 
-      alt="Typing Animation" 
-      style="max-width: 100%; height: auto;" />
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=21&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=800&lines=Embodied+System%2C+Optimal+Control%2C+and+Robot+Learning+✨"
+        alt="Typing Animation"
+        style="width: clamp(40rem, 70%, 65rem); height: auto;" />
   </div>
-
-
 
 </div>
 

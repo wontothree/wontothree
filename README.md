@@ -5,7 +5,7 @@
 
   <div align="center">
       <img
-        src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=22.5&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=800&lines=Embodied+System%2C+Optimal+Control%2C+and+Robot+Learning+✨"
+        src="https://readme-typing-svg.herokuapp.com?font=sans-serif&size=22&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=800&lines=Embodied+System%2C+Optimal+Control%2C+and+Robot+Learning+✨"
         alt="Typing Animation"
         style="height: auto;" />
   </div>

@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Sewon Kim's GitHub
+  # Sewon Kim's GitHub
   
   <div align="center">
 
